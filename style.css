@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://images7.alphacoders.com/122/1225577.jpg");
+    background-image: url("https://images5.alphacoders.com/122/1225582.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color:#fff;
@@ -8,6 +8,7 @@ body{
     margin-top: 20%;
     text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, -2px -2px 0 #030303, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000;
     font-size: 25px;
+    height: 100vh;
 }
 
 .container{
